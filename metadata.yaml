@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26468'
     url: http://www.gutenberg.org/2009/agents/26468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24413#Tante-Toni-und-ihre-Bande
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2008-01-23'
 gutenberg_type: Text
